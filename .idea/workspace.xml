@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3642c321-1e0d-491d-a0c6-2165cc9c1976" name="Default Changelist" comment="" />
+    <list default="true" id="3642c321-1e0d-491d-a0c6-2165cc9c1976" name="Default Changelist" comment="updated dockerfile">
+      <change beforePath="$PROJECT_DIR$/pythondockerCI" beforeDir="false" afterPath="$PROJECT_DIR$/pythondockerCI" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,23 @@
       <workItem from="1617686928554" duration="145000" />
       <workItem from="1617687422587" duration="74000" />
       <workItem from="1617687511182" duration="153000" />
+      <workItem from="1617786572309" duration="295000" />
     </task>
+    <task id="LOCAL-00001" summary="updated dockerfile">
+      <created>1617786668105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617786668105</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated dockerfile">
+      <created>1617786729013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617786729013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +92,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated dockerfile" />
   </component>
 </project>
